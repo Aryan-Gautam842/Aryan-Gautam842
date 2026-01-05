@@ -2,7 +2,7 @@ Hi, I’m Aryan Gautam 👋
 🎓 Computer Engineering @ University of California, Santa Barbara
 📍 Santa Barbara, CA
 📧 aryangautam@ucsb.edu
-🔗 LinkedIn • GitHub
+🔗 https://www.linkedin.com/in/gautam1947/
 
 
 🚀 About Me
